@@ -30,8 +30,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript"/></span>
 &nbsp;
-<span><img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo"  title="Python"/></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin logo" title="Kotlin" /></span>
 &nbsp;
 
@@ -118,6 +116,8 @@
 <span><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Gamemaker-000000?style=for-the-badge&logo=Gamemaker&logoColor=white"> </span>
+&nbsp;
+<span><img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo"  title="Python"/></span>
 
 <br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
