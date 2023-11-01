@@ -6,12 +6,12 @@
   <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Gracias+por+visitar+mi+perfil..&hearts;++;Mi+Nombre+es+Brandon+y+Estudio,;Ingenieria+en+Desarrollo+de+Software,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
-  <h4>Aun soy programador principiante que busca ganar experiencia. ademas de programar tambien tengo conocimientos de diseño digital, pixel art y de vectorizacion. Actualmente estudio el 4to cuatrimestre en la Universidad Tecnologica de San Juan del Rio.</h4>
+  <h4>Aun soy un programador principiante que busca ganar experiencia. ademas de programar tambien tengo conocimientos de diseño digital, pixel art y de vectorizacion. Actualmente estudio el 4to cuatrimestre en la Universidad Tecnologica de San Juan del Rio.</h4>
 </div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<img align="right" alt="GIF" height="260px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 🔭 Actualmente estoy por terminar el TSU en Ingenieria de Software
 - 🌱 Actualmente estoy aprendiendo Python
@@ -120,23 +120,13 @@
 <span><img src="https://img.shields.io/badge/Gamemaker-000000?style=for-the-badge&logo=Gamemaker&logoColor=white"> </span>
 
 <br>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/azizovrafael">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azizovrafael&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azizovrafael&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
 ## Connect with me:
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/themlphdstudent)
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://durgeshsamariya.github.io)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/themlphdstudent) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/durgeshsamariya/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@themlphdstudent)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/The_GeruPRX) 
+[<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>](brandonalonsosalinas@gmail.com)
 </p>
