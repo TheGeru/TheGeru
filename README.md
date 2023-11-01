@@ -6,6 +6,11 @@
   <h4>Soy un programador principiante que busca ganar experiencia :D. ademas de programar tambien tengo conocimientos de diseño digital, pixel art y de vectorizacion. Actualmente estudio el 3er Semestre de la universidad.</h4>
 </div>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
 <!--
 **TheGeru/TheGeru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
