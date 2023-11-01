@@ -2,11 +2,11 @@
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
   <!--<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">-->
-  <h2 align="center">Hola!!👋</h2>
+  <h1 align="center"> Hello everyoneeee!!👋</h1>
   <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Gracias+por+visitar+mi+perfil..&hearts;++;Mi+Nombre+es+Brandon+y+Estudio,;Ingenieria+en+Desarrollo+de+Software,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
-  <h4>Aun soy un programador principiante que busca ganar experiencia. ademas de programar tambien tengo conocimientos de diseño digital, pixel art y de vectorizacion. Actualmente estudio el 4to cuatrimestre en la Universidad Tecnologica de San Juan del Rio.</h4>
+  <h3>Aun soy un programador principiante que busca ganar experiencia. ademas de programar tambien tengo conocimientos de diseño digital, pixel art y de vectorizacion. Actualmente estudio el 4to cuatrimestre en la Universidad Tecnologica de San Juan del Rio.</h4>
 </div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
