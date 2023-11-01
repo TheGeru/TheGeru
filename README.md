@@ -128,5 +128,7 @@
 <p align = "center">
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/The_GeruPRX) 
-[<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>](brandonalonsosalinas@gmail.com)
+<a href="mailto:brandonalonsosalinas@gmail.com" style="margin-right: 5px;">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="gmail" width="100px" />
+    </a>
 </p>
