@@ -6,7 +6,7 @@
   <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Gracias+por+visitar+mi+perfil..&hearts;++;Mi+Nombre+es+Brandon+y+Estudio,;Ingenieria+en+Desarrollo+de+Software,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
-  <h3>Aun soy un programador principiante que busca ganar experiencia. ademas de programar tambien tengo conocimientos de diseño digital, pixel art y de vectorizacion. Actualmente estudio el 4to cuatrimestre en la Universidad Tecnologica de San Juan del Rio.</h4>
+  <h3>Aun soy un programador principiante que busca ganar experiencia. ademas de programar tambien tengo conocimientos de diseño digital, pixel art y de vectorizacion. Actualmente estudio el 5to cuatrimestre en la Universidad Tecnologica de San Juan del Rio.</h4>
 </div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
