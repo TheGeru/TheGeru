@@ -6,17 +6,17 @@
   <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Gracias+por+visitar+mi+perfil..&hearts;++;Mi+Nombre+es+Brandon+y+Estudio,;Ingenieria+en+Desarrollo+de+Software,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
-  <h3>Aun soy un programador principiante que busca ganar experiencia. ademas de programar tambien tengo conocimientos de diseño digital, pixel art y de vectorizacion. Actualmente estudio el 5to cuatrimestre en la Universidad Tecnologica de San Juan del Rio.</h4>
+  <h3>Estudiante de Ingenieria en Desarrollo y Gestion de Software en la Universidad Tecnlogica de San Juan del Rio, con el grado de Tecnico Superior Universitario Finalizado, Me gusta estar constantemente aprendioendo nuevas cosas y el trabajo en equipo, si gustas colaborar en algun proyecto estoy disponible</h4>
 </div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <img align="right" alt="GIF" height="260px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 🔭 Actualmente estoy por terminar el TSU en Ingenieria de Software
-- 🌱 Actualmente estoy aprendiendo Python
+- 🔭 Actualmente estoy por terminar la Ingenieria en desarrollo y Gestion de Software
+- 🌱 Actualmente estoy aprendiendo React
 - 👯 Me gustaria colaborar en proyectos de Backend y Frontend
-- 🤔 Estoy buscando ayuda con Estructura de Datos
+- 🤔 Estoy buscando ayuda con las Estructuras de Datos
 - 📫 Encuentrame en Twitter: @The_GeruPRX
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
