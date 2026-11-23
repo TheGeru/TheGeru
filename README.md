@@ -50,10 +50,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-## 📌 Proyectos destacados
-
-> *Tip:* Fija (*pin*) tus mejores 4 a 6 repositorios en tu perfil de GitHub y asegúrate de que cada uno tenga su propio `README.md` explicando qué hace, qué tecnologías usa y cómo correrlo.
-
-* **[Nombre del Proyecto 1](#)** — Breve descripción del problema que resuelve y stack principal.
-* **[Nombre del Proyecto 2](#)** — Breve descripción de tu rol o funcionalidad clave.
